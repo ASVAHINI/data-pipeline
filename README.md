@@ -24,11 +24,8 @@ This project implements a **Data Pipeline** using Python and Pandas. The pipelin
 🚀 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/data-pipeline.git
+   git clone https://github.com/ASVAHINI/data-pipeline.git
 Open the notebook:
-sh
-Copy
-Edit
 jupyter notebook data_pipeline.ipynb
 Follow the steps in the notebook:
 Step 1: Load the data.
